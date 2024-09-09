@@ -15,7 +15,7 @@ CREATE TABLE `movie` (
 Run in terminal with env
 
 ```
-MYSQL_HOST='movie-manager.c2cpwilhheqc.us-east-1.rds.amazonaws.com' MYSQL_USER='root' MYSQL_PW='rootroot' MYSQL_DB='movie-manager' node app.js
+MYSQL_HOST='movie-manager.ct51vyrywran.us-east-1.rds.amazonaws.com' MYSQL_USER='admin' MYSQL_PW='rootroot' MYSQL_DB='movie_manager' node index.js
 ```
 
 
